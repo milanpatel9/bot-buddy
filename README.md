@@ -29,10 +29,6 @@ BotBuddy is a remote-controlled tank platform developed to explore embedded syst
 - Incorporate a camera module for FPV streaming
 - Upgrade to Wi-Fi-based remote control and web dashboard
 
-## Demo
-
-[Insert image or demo video link here]
-
 ---
 
 Created as a 2023 personal robotics project to gain hands-on experience with embedded hardware, robotics design, and mobile interfacing.

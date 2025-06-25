@@ -1,4 +1,4 @@
-# BotBuddy 🚗🔧
+# BotBuddy
 
 BotBuddy is a remote-controlled tank platform developed to explore embedded systems, motor control, and wireless communication. Built from the ground up in 2023, this project integrates real-time control, sensor feedback, and a mobile input interface to create a responsive robotics experience.
 

@@ -1,0 +1,11 @@
+../Core/Src/main.c:102:5:main	8	static
+../Core/Src/main.c:151:6:SystemClock_Config	112	static
+../Core/Src/main.c:200:13:MX_LPUART1_UART_Init	8	static
+../Core/Src/main.c:234:13:MX_TIM2_Init	32	static
+../Core/Src/main.c:287:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:324:6:event_loop	96	static
+../Core/Src/main.c:450:6:READ_CONTROLLER	8	static
+../Core/Src/main.c:459:6:DECODE_CONTROLLER	8	static
+../Core/Src/main.c:465:6:BT_BUDDY_Init	8	static
+../Core/Src/main.c:473:6:RUN_MOTOR	8	static
+../Core/Src/main.c:492:6:Error_Handler	8	static,ignoring_inline_asm
